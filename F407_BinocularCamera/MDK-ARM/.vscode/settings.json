@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dcmi.h": "c",
+        "ov2640_config.h": "c",
+        "utility": "c",
+        "stm32f4xx_hal.h": "c"
+    }
+}

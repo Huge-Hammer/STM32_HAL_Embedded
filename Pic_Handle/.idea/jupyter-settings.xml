@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="ba954dd8b69d607b8523eb1875f5c7da7b577866536d32e2" />
+          <option name="urlString" value="http://localhost:8890/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="ba954dd8b69d607b8523eb1875f5c7da7b577866536d32e2" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://pynq:9090" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/PYNQ_Hub/.idea/PYNQ_Hub.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="ba954dd8b69d607b8523eb1875f5c7da7b577866536d32e2" />
+              <option name="urlString" value="http://localhost:8890/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="ba954dd8b69d607b8523eb1875f5c7da7b577866536d32e2" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/PyCharm_Hub/PyCharm_Projects/Pytorch_Learn/.idea/Pytorch_Learn.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
